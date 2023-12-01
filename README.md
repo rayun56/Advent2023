@@ -12,7 +12,7 @@ The languages in the pool are:
 
 Below is a log of my progress.
 
-## Day 1
+## Day 1 ([day1.py](python/day1.py))
 > [!NOTE]
 > Language rolled: Python
 
