@@ -18,7 +18,7 @@ Below is a log of my progress.
 
 Fairly straightforward. My initial plan for part 2 did not work out, so instead I had to go with an uglier solution that gets the job done.
 
-## Day 2 ([day2.py](java/src/day2.java))
+## Day 2 ([day2.java](java/src/day2.java))
 > [!NOTE]
 > Language rolled: Java
 
