@@ -29,3 +29,9 @@ Java's scanner is actually not too bad for string parsing, this went pretty smoo
 > Language rolled: Python
 
 Don't you love off-by-one errors? I sure do. Once I figured that out then part 2 went super easily thanks to my helper functions.
+
+## Day 4 ([day4.py](python/day4.py))
+> [!NOTE]
+> Language rolled: Python
+
+This was the easiest so far. Python was perfect for this, and got to use intersection of sets in a neat one-liner.
