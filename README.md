@@ -23,3 +23,9 @@ Fairly straightforward. My initial plan for part 2 did not work out, so instead 
 > Language rolled: Java
 
 Java's scanner is actually not too bad for string parsing, this went pretty smoothly.
+
+## Day 3 ([day3.py](python/day3.py))
+> [!NOTE]
+> Language rolled: Python
+
+Don't you love off-by-one errors? I sure do. Once I figured that out then part 2 went super easily thanks to my helper functions.
